@@ -37,3 +37,4 @@ The suite of firmware, software and ancillary products that form the WaveSculpto
 **Dimensions** - 255 x 165 x 35mm
 
 **Mass** - 855g
+
